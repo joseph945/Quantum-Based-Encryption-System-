@@ -17,7 +17,7 @@ This project demonstrates an end-to-end encryption workflow using **quantum rand
 
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 
 - [Qiskit](https://qiskit.org/) – for quantum circuit simulation
 - [PyCryptodome](https://pycryptodome.readthedocs.io/en/latest/) – for AES & RSA
